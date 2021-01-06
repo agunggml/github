@@ -69,6 +69,7 @@ input[type="submit"] {
   background-color: #4ea44f;
   border-color: #408740;
   color: white;
+  cursor: pointer;
 }
 
 input[type="submit"]:hover {
@@ -88,6 +89,10 @@ input[type="submit"]:hover {
 
 a {
   color: #0366d6;
+}
+
+a:hover{
+  text-decoration: underline; 
 }
 
 .register {
